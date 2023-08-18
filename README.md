@@ -23,11 +23,11 @@ This project is a basic implementation of the Rock Paper Scissors game using HTM
 
 The rules of the Rock Paper Scissors game are simple:
 
-- Rock beats Scissors
+- Rock Beats Scissors
 - Scissors beats Paper
 - Paper beats Rock
 
-The game is played until either you or the computer reach a score of 5 wins. At that point, the game resets the scores.
+The game is played until either you or the computer reaches a score of 5 wins. At that point, the game resets the scores.
 
 ## Controls {#controls}
 
@@ -40,7 +40,7 @@ You can make your move by clicking on one of the buttons representing Rock, Pape
 
 ## Auto Play {#auto-play}
 
-If you want to sit back and watch the game play itself, you can use the Auto Play feature. Click the "Auto Play" button to toggle this mode on and off. When Auto Play is active, the game will automatically make moves every second.
+If you want to sit back and watch the gameplay itself, you can use the Auto Play feature. Click the "Auto Play" button to toggle this mode on and off. When Auto Play is active, the game will automatically make moves every second.
 
 ## Score {#score}
 
